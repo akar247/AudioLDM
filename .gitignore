@@ -1,5 +1,8 @@
 # my additions
 tokens.txt
+*.parquet
+*.db
+.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
