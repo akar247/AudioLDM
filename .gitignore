@@ -1,5 +1,10 @@
 # my additions
 tokens.txt
+*.parquet
+*.db
+.gitignore
+*.csv
+music_data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
